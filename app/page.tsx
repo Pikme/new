@@ -12,7 +12,7 @@ export default function Home() {
         <div className="navbar-content">
             <div className="logo">
                 <span className="logo-icon">🕉️</span>
-                <span className="logo-text">Sacred Abode</span>
+                <span className="logo-text">Test View</span>
             </div>
             <nav className="nav-menu">
                 <a href="#packages" className="nav-link">Packages</a>
