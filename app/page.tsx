@@ -15,9 +15,9 @@ export default function Home() {
                 <span className="logo-text">Test View</span>
             </div>
             <nav className="nav-menu">
-                <a href="#packages" className="nav-link">Packages</a>
-                <a href="#itinerary" className="nav-link">Itinerary</a>
-                <a href="#faq" className="nav-link">FAQ</a>
+                <a href="#packages" className="nav-link">Domestic Tours</a>
+                <a href="#itinerary" className="nav-link">International Tours</a>
+                <a href="#faq" className="nav-link">Spiritual Tours</a>
                 <a href="#contact" className="nav-link">Contact</a>
             </nav>
             <button className="cta-button">Book Now</button>
