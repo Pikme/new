@@ -11,7 +11,8 @@ export default function Home() {
     <div className="container">
         <div className="navbar-content">
             <div className="logo">
-                <span className="logo-icon">https://pikme.org/images/logo.png</span>
+                <span className="logo-icon">🕉️</span>
+                <span className="logo-text">Sacred Abode</span>
             </div>
             <nav className="nav-menu">
                 <a href="#packages" className="nav-link">Packages</a>
