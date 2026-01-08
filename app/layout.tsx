@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Sacred Abode",
+  title: "Instant Booking Tour packages to Varnasi (Kashi)",
   description: "Experience the spiritual essence of India's holiest cities",
 };
 
